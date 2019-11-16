@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`El componente Button debe de hacer Match con el snapshot 1`] = `
+<div
+  className="buttonGray"
+  data-testid="button"
+/>
+`;
+
+exports[`El componente Button debe de hacer Match con el snapshot version 1 1`] = `
+<div
+  className="buttonGray"
+  data-testid="button"
+>
+  version 1
+</div>
+`;
+
+exports[`El componente Button debe de hacer Match con el snapshot version 2 1`] = `
+<div
+  className="buttonGray"
+  data-testid="button"
+>
+  version 2
+</div>
+`;

@@ -1,0 +1,25 @@
+Class 15 noviembre.
+
+1.- npx create-react-app [tu nombre del proyecto].
+2.- npm i @testing-library/jest-dom 
+@testing-library/react 
+react-test-renderer --save--dev
+3.- create folder call components.
+4.- create a folder inside components calle button
+and create a javascript file and a ccs file.
+5.- make a component inside the js file.
+6.- create some styles for the button.
+7.- create a folder called __test__ inside button.
+8.- create a file called button.test.js
+9.- create a test case scenario for validate the render in the button
+of the component.
+10.- Create a test case scenario for validate the content of the button.
+(this could be string or number).
+11.- Create a test case for make snapshots of the component.
+(snapshots = the test framework document the last version of the
+component in the __snapshots__ folder).
+12.- update the component to see what happens with the test case scenario.
+13.- update the snapshot to make the new version of the component valid.
+14.- make multiple test cases with the same component only updating the information
+in the component.
+15.- for code coverage reports run [npm test -- --coverage];
